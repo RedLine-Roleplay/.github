@@ -1,9 +1,6 @@
 # RedLine Roleplay 🚀
 
 Welkom bij de officiële GitHub-organisatie van **RedLine Roleplay**.
-
-Wij bouwen en onderhouden custom FiveM-resources, systemen en infrastructuur voor RedLineRP. De focus ligt op performance, security, gebruiksvriendelijkheid en een consistente RedLine/VRX-stijl.
-
 ---
 
 ## 🏙️ Over RedLineRP
@@ -52,7 +49,7 @@ Code, assets en resources uit private repositories mogen niet zonder toestemming
 
 ## 👥 Team
 
-Development wordt beheerd door het **RedLineRP / Valyrix Studios developmentteam**.
+Development wordt beheerd door het **RedLineRP developmentteam**.
 
 Issues, wijzigingen en pull requests worden intern besproken voordat ze naar productie worden gebracht.
 
@@ -67,6 +64,4 @@ Issues, wijzigingen en pull requests worden intern besproken voordat ze naar pro
 
 ---
 
-### ❤️ Built for RedLineRP by Valyrix Studios
-
-*Creating systems that make roleplay better.*
+### ❤️ Built with love
